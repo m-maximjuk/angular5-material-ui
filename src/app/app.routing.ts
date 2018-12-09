@@ -26,9 +26,8 @@ export const AppRoutes: Routes = [
       component: AuthLayoutComponent,
       children: [{
         path: 'auth',
-        //loadChildren: './auth/auth.module#AuthModule'
         loadChildren: './auth/auth.module#AuthModule'
-      }]
+      },]
     }]
   }
 ];
