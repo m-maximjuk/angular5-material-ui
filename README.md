@@ -1,9 +1,8 @@
-# Angular5-MATERIALUI
+# Angular5-Material UI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 5.2.0.
 
-## Project Video
-https://drive.google.com/file/d/1cAhLm54YCbFpPI7FhCaTEPCZv0b-AYQk/view?usp=sharing
+### [Project Video](https://drive.google.com/file/d/1cAhLm54YCbFpPI7FhCaTEPCZv0b-AYQk/view?usp=sharing)
 
 ## Screenshot
 ![Employees](https://user-images.githubusercontent.com/39874090/49700795-4e2d6a00-fb98-11e8-9f97-6fa5ae9a00eb.png)
